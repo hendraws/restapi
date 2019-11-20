@@ -1,0 +1,32 @@
+[
+	{
+		"nama":"Hendra",
+		"umur": 25,
+		"nim":"12314141413",
+		"lulus": true,
+		"hobby": [
+			"coding",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1":"John",
+			"pembimbing2":"indah"
+
+		}
+	},
+	{
+		"nama":"Hendra",
+		"umur": 25,
+		"nim":"12314141413",
+		"lulus": true,
+		"hobby": [
+			"coding",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1":"John",
+			"pembimbing2":"indah"
+
+		}
+	}
+]
